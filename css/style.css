@@ -253,14 +253,14 @@ color: #797c82;
 padding-top: 6px;      
 }
 .social_icon{
-width: 40%;
+width: 20%;
 }
 .social_icon ul{
 list-style: none;
 
 display: flex;
         
-justify-content: end;
+justify content: space-between;
 }
 .social_icon ul li{
  
